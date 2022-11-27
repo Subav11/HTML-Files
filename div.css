@@ -1,0 +1,13 @@
+.div1{
+    border-width:10px;
+    border-style: solid;
+    border-color: blue;
+    margin: 100px 50px 100px;
+    padding: 50px;
+    text-align: center
+
+}
+body{ background-image: url(Assets/Images/pexels-photo-2662116.jpeg);
+    background-attachment: scroll;
+
+}
